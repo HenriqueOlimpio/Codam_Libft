@@ -29,20 +29,3 @@ and, when compiling your code, add the required flags:
 ```shell
 -lft -L path/to/libft.a -I path/to/libft.h
 ```
-
-## 📋 Testing
-
-**1. First, configure the path to the libft folder in the Makefile (inside `/testing/`):**
-
-```Makefile
-#############################
-## Path to Libft directory ##
-#############################
-DIR		= ../
-```
-
-**2. Then run:**
-
-```shell
-make t
-```
