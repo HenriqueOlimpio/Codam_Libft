@@ -1,10 +1,10 @@
 # Codam_Libft
-This project is about coding a C library. It will contain a lot of general purpose functions your programs.
+This project is about coding my own 
 ## 🛠️ Usage
 
 ### Requirements
 
-The library is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
+The library is written in C language and needs the **`gcc` compiler** and some standard **C libraries** to run.
 
 ### Instructions
 
