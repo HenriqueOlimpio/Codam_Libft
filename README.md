@@ -1,5 +1,5 @@
 # Codam_Libft
-This project is about coding my own 
+This project is about coding my own library 
 ## 🛠️ Usage
 
 ### Requirements
